@@ -1,0 +1,14 @@
+:root{
+    --font-family: 'Noto Sans KR', sans-serif;
+    --body-background-color: rgb(245, 245, 245);
+    --body-color: black;
+}
+
+body{
+    margin: 0;
+    
+    color: var(--body-color);
+    background-color: var(--body-background-color);
+
+    font-family: var(--font-family);
+}

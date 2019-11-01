@@ -1,0 +1,72 @@
+:root{
+    --nav-logo-color: black;
+    --nav-height: 80px;
+    --nav-category-horizontal-margin: 10px;
+    --nav-horizontal-margin: 15px;
+    --nav-font-size: 35px;
+}
+
+nav{
+    display: flow-root;
+    position: fixed;
+
+    height: var(--nav-height);
+    width: 100%;
+
+    font-size: var(--nav-font-size);
+    line-height: var(--nav-height);
+
+    background-color: gainsboro;
+
+    z-index: 10;
+}
+
+nav .container-logo{
+    height: var(--nav-height);
+    width: 200px;
+
+    margin-left: var(--nav-horizontal-margin);
+
+    color: var(--nav-logo-color);
+
+    transition: all 2s;
+
+    font-size: var(--nav-font-size);
+
+    float: left;
+}
+
+nav .container-logo:hover{
+    color: var(--article-background-color);
+    font-size: calc(var(--nav-font-size) + 20px);
+    transition: all 1s linear;
+}
+
+nav .container-category{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+    margin-right: var(--nav-horizontal-margin);
+}
+
+nav .container-category>div{
+    margin-left: var(--nav-category-horizontal-margin);
+    margin-right: var(--nav-category-horizontal-margin);
+}
+
+nav .container-category>div>a{
+    transition: all 1s;
+}
+
+nav .container-category>div>a:hover{
+    color: rgb(40, 100, 100);
+    transition: all 1s;
+    font-size: 40px;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}

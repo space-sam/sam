@@ -1,0 +1,74 @@
+:root{
+    --nav-logo-color: black;
+    --nav-height: 80px;
+    --nav-category-horizontal-margin: 18px;
+    --nav-horizontal-margin: 15px;
+    --nav-font-size: 50px;
+    --nav-font-weight: 600;
+}
+
+nav{
+    display: flow-root;
+    position: fixed;
+
+    height: var(--nav-height);
+    width: 100%;
+
+    font-size: var(--nav-font-size);
+    font-weight: var(--nav-font-weight);
+    line-height: var(--nav-height);
+    letter-spacing: 0.5px;
+
+    background-color: rgb(235, 235, 235);
+
+    z-index: 10;
+}
+
+nav .container-logo{
+    height: var(--nav-height);
+    width: 200px;
+
+    margin-left: var(--nav-horizontal-margin);
+
+    color: var(--nav-logo-color);
+
+    transition: all 2s;
+
+    font-size: var(--nav-font-size);
+
+    float: left;
+}
+
+nav .container-logo:hover{
+    color: var(--article-background-color);
+    font-size: calc(var(--nav-font-size) + 20px);
+    transition: all 1s linear;
+}
+
+nav .container-category{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+    margin-right: var(--nav-horizontal-margin);
+}
+
+nav .container-category>div{
+    margin-left: var(--nav-category-horizontal-margin);
+    margin-right: var(--nav-category-horizontal-margin);
+}
+
+nav .container-category>div>a{
+    transition: all 1s;
+}
+
+nav .container-category>div>a:hover{
+    color: rgb(40, 100, 100);
+    transition: all 1s;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
