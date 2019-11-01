@@ -64,7 +64,7 @@ nav .container-category>div>a{
 }
 
 nav .container-category>div>a:hover{
-    color: rgb(40, 100, 100);
+    color: white;
     transition: all 1s;
 }
 
@@ -78,7 +78,7 @@ nav a{
 }
 
 nav .nav-insta{
-    padding-top: 10px;
-    width: 60px;
-    height: 60px;
+    padding-top: 17px;
+    width: 46px;
+    height: 46px;
 }
