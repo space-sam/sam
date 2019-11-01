@@ -68,7 +68,17 @@ nav .container-category>div>a:hover{
     transition: all 1s;
 }
 
+nav .category{
+    height: var(--nav-height);
+}
+
 nav a{
     color: black;
     text-decoration: none;
+}
+
+nav .nav-insta{
+    padding-top: 10px;
+    width: 60px;
+    height: 60px;
 }
