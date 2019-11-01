@@ -19,7 +19,7 @@ nav{
     line-height: var(--nav-height);
     letter-spacing: 0.5px;
 
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(240, 240, 240);
 
     z-index: 10;
 }
