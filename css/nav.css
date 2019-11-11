@@ -17,7 +17,7 @@ nav{
     font-size: var(--nav-font-size);
     font-weight: var(--nav-font-weight);
     line-height: var(--nav-height);
-    letter-spacing: 0.5px;
+    letter-spacing: 0.2px;
 
     background-color: rgb(240, 240, 240);
 
