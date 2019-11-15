@@ -1,0 +1,131 @@
+<html>
+    <head>
+        <title>현대문화공간 SAM</title>
+        <meta property="og:url" content="http://same-context.com/items/4.html">
+        <meta property="og:title" content="현대문화공간 SAM">  
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="http://same-context.com/posters/4.jpg">
+        <meta property="og:description" content="부평과 부천 경계에 위치한 현대문화공간 SAM">
+
+        <link rel="shortcut icon" href="../favicon.ico">
+        <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="../css/nav.css"></style>
+        <link rel="stylesheet" type="text/css" href="../css/body.css"></style>
+        <style type="text/css">
+/*font-family: 'Noto Sans KR', sans-serif;*/
+:root{
+    --article-height: 100vh;
+    --article-font-size: 25px;
+    --article-background-color: None;
+    --footer-height: 100px;
+}
+img.poster{
+    width: 40vw;
+}
+div.empty{
+    height: calc(var(--nav-height) + 20px);
+}
+div.container-poster{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin-bottom: 50px;
+}
+div.container-maintxt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 80vh;
+}
+div.maintxt{
+    font-size: 2vh;
+}
+/*javascript specified*/
+.invisible  { opacity: 0; transition: opacity 1s; }
+.visible    { opacity: 1; transition: opacity 1s; }
+.imageinvisible {opacity: 0.2; transition: opacity 1s; }
+.nodisplay  { display: none; }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <div class="container-logo">
+                <div>
+                <a href="../index.html">SAM</a>
+                </div>
+            </div>
+            <div class="container-category">
+                <div class="category"><a href="../index.html">Works</a></div>
+                <div class="category"><a href="../log.html">Log</a></div>
+                <div class="category"><a href="../about.html">About</a></div>
+                <div class="category"><a href="https://www.instagram.com/same.context/"><img class="nav-insta" src="../images/insta.png" /></a></div>
+            </div>
+        </nav>
+        <div class="empty"></div>
+        <div class="container-poster">
+            <!-- src 부분-->
+            <image class="poster" src="../posters/4.jpg"/>
+        </div>
+        <div class="container-maintxt">
+            <div class="maintxt">
+                <p>  <br> <br />
+                    <br> <br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br><br />
+                    <br><br />
+                    <br /> ㅤ  <br />
+                    <br />세계를 지우고 무엇도 쓸모없게.<br />
+                    한국사람 공연, 11월 30일 토요일 7시.<br /><br />
+                    시대적 오류를 지워가는 외곽으로부터.<br /><br />
+                    삶과 죽음, 선과 악, 돈 그리고 사랑.<br />
+                    순리는 변치 않는 것일까?<br /><br />
+                    시대적 오류를 짚어내고 선명함을 흐려내고 있는<br />
+                    한국사람은 예술가의 역할을 묵묵히 이행하고 있다.<br /><br />
+                    시대적 오류를 지워가는 외곽으로부터<br />
+                    발하고 있는 그의 목소리를 함께 들어보자.<br /><br />
+                    [공연 소개]<br />
+                    오후 7시. 한국사람 공연<br />
+                    오후 8시. 돕덕 공연<br /><br />
+                    [작가 소개]<br />
+                    한국사람은 대한민국의 래퍼이다.<br /><br />
+                    -정규앨범-<br />
+                    환상, 2019<br />
+                    꽃뱀 : gold digge, 2018<br />
+                    전설, 2018<br /><br />
+                    <hr />
+                    <br />
+                    [프로그램 정보]<br />
+                    - 2019년 11월 30일 토요일 저녁 7시 ~ 9시<br />
+                    - 인천 부평구 길주남로 68, 4층 현대문화공간 SAM<br />
+                    - 구글 폼 신청자 중 40인 선정<br />
+                    - 본 사업은 (재)인천문화재단의 '우.주.인' 지원사업으로 진행되는 프로그램입니다.<br />
+                    <br />[신청]<br />
+                    <a href="https://forms.gle/DPGAW37C5kF2KHmQ7">- 구글 폼</a><br />
+                    <br />
+                    [안내사항]<br />
+                    - 선정 후 문자와 이메일로 연락드립니다. 당일 샘에서 본인 확인 후 착석합니다.<br />
+                    - 불참시 추후 이벤트에서 제외되오니 꼭 사전 연락 부탁드립니다.<br />
+                    - 촬영 시에는 무음으로 부탁 드립니다.<br />
+                    <br />
+                    [문의]<br />
+                    - sfcc.sam@gmail.com<br />
+                    <br />
+                    현대문화공간 ‘SAM’은 부평과 부천의 경계에 위치한 문화공간입니다.<br />
+                    예술가와 문화예술 기획자를 위한 문화 플랫폼으로서<br />
+                    예술, 영화, 음악, 과학기술, 기업문화 등 다양한 문화적 이야기를<br />
+                    ▲강연 ▲상영회 ▲수업 등 다양한 형태로 조명하고 있습니다.<br />
+                    <br />
+                    -작가와 문화예술 기획자의 참여를 기다리고 있습니다.<br />          
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
