@@ -1,0 +1,137 @@
+<html>
+    <head>
+        <title>현대문화공간 SAM</title>
+        <meta property="og:url" content="http://same-context.com/items/8.html">
+        <meta property="og:title" content="현대문화공간 SAM">  
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="http://same-context.com/posters/8.jpg">
+        <meta property="og:description" content="부평과 부천 경계에 위치한 현대문화공간 SAM">
+
+        <link rel="shortcut icon" href="../favicon.ico">
+        <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="../css/nav.css"></style>
+        <link rel="stylesheet" type="text/css" href="../css/body.css"></style>
+        <style type="text/css">
+/*font-family: 'Noto Sans KR', sans-serif;*/
+:root{
+    --article-height: 100vh;
+    --article-font-size: 25px;
+    --article-background-color: None;
+    --footer-height: 100px;
+}
+img.poster{
+    width: 40vw;
+}
+div.empty{
+    height: calc(var(--nav-height) + 20px);
+}
+div.container-poster{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin-bottom: 50px;
+}
+div.container-maintxt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 80vh;
+}
+div.maintxt{
+    font-size: 2vh;
+}
+/*javascript specified*/
+.invisible  { opacity: 0; transition: opacity 1s; }
+.visible    { opacity: 1; transition: opacity 1s; }
+.imageinvisible {opacity: 0.2; transition: opacity 1s; }
+.nodisplay  { display: none; }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <div class="container-logo">
+                <div>
+                <a href="../index.html">SAM</a>
+                </div>
+            </div>
+            <div class="container-category">
+                <div class="category"><a href="../index.html">Works</a></div>
+                <div class="category"><a href="../log.html">Log</a></div>
+                <div class="category"><a href="../about.html">About</a></div>
+                <div class="category"><a href="https://www.instagram.com/same.context/"><img class="nav-insta" src="../images/insta.png" /></a></div>
+            </div>
+        </nav>
+        <div class="empty"></div>
+        <div class="container-poster">
+            <!-- src 부분-->
+            <image class="poster" src="../posters/8.jpg"/>
+        </div>
+        <div class="container-maintxt">
+            <div class="maintxt">
+                <p>  <br> <br />
+                    <br> <br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br> ㅤ<br />
+                    <br><br />
+                    <br><br /><br />
+                    <br />
+'콰야와 함께 만드는 그림책'<br />작가 콰야의 그림 모임.<br /><br />
+- 모임장 : 콰야<br />
+- 일정 : 모임 2020년 2월 5일, 12일, 19일, 26일 (수) 오후 8:00 - 10:30 (4회)<br />
+           쉬는 시간 2월 14일 (금) 저녁 8:00 - 10:30 (1회) (콰야 작가님은 참석하지 않습니다.)<br />
+- 장소 : 인천 부평구 길주남로 68, 4층 현대문화공간 샘<br />
+- 정원 : 9명<br />
+- 수강료 : 19.5만원 (재료비, 책 제작비 포함)<br /><br />
+📍어떤 모임인가요?<br />
+콰야 작가님과 함께 그림을 그리고<br />
+그 그림들을 모아 작은 그림책을 만듭니다.<br /><br />
+
+낙서도, 종이 한구석에 시작된 끄적거림도 좋아요.<br />
+무언가를 표현하기 시작한다는건 그 자체로 멋진 일이에요. <br /><br /><br />
+
+📚모임일정<br /><br />
+1회 - 모임에 대한 소개, 각자 소개, 사용할 재료 설명 및 간단하게 재료 사용해보기<br />
+
+2회  - 내가 좋아하는 인물 그리기<br />
+내가 좋아하는 인물을 그리고 그림에 대해 함께 이야기 나눕니다.<br /><br />
+
+쉬는 시간 - <콰야가 좋아하는 영화 함께 보기><br />
+콰야 작가가 좋아하는 영화를 함께 보고 이야기를 나눕니다.<br />
+(콰야 작가님은 참석하지 않습니다.)<br /><br />
+
+3회 - 내가 좋아하는 정물 그리기 (오브제 그리기)<br />
+내가 좋아하는 정물을 그리고 그림에 대해 함께 이야기 나눕니다. <br /><br />
+
+4회 - 영화 장면 및 포스터 그리기<br />
+쉬는 시간에 함께 본 영화 또는 자신이 좋아하는 영화의 장면 또는<br />
+포스터를 그리고 그림에 대해 함께 이야기 나눕니다.<br /><br /><br />
+
+
+
+📍 콰야 작가 님을 소개합니다<br />
+밤을 지난다는 뜻을 가진 ‘콰야’라는 이름으로 그리는 작업을 하고 있다.<br />
+여러 일상의 모습들을 저 나름의 해석을 담아 소소하게 그림으로 담아내고 기록하고 있다. 저서로는 『읽는 사람들』, 『오늘도 보통의 일상』이 있다.<br /><br /><br />
+
+
+📍모임이 끝난 후 우리는 어떤 모습이 될까요?<br />
+그림을 그리고 글을 쓰며 무언가를 표현하는 것에 더 익숙해집니다.<br />
+그 그림들을 모아 자신만의 작은 그림책을 가지게됩니다.<br /><br /><br />
+
+📍어떤 사람들과 모임을 함께하게 될까요?<br />
+	- 평소 낙서부터 그림 그리기를 좋아하는 사람<br />
+	- 무언가를 표현하고 싶은 사람<br />
+	- 그림을 배우고 싶은 사람 <br />
+  - 그림책을 만들고 싶은 사람<br />
+
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
